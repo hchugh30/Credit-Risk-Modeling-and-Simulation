@@ -1,4 +1,4 @@
-# Credit-Risk-Modeling-and-Simulation
+# Credit Risk Modeling and Simulation
 The purpose of this project is to model a credit-risky portfolio of corporate bonds. Consider a 
 structural model for portfolio credit risk described in class. Using the data for 100 counterparties,
 simulate 1-year losses for each corporate bond. 
