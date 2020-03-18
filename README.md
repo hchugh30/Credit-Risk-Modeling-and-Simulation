@@ -15,5 +15,5 @@ The out-of-sample scenarios represent true distribution of portfolio losses. Two
 Normal datasets are used for evaluating sampling error and performing portfolio optimization
 
 VaR and CVaR at quantile levels 99% and 99.9% were evaluated for the two portfolios:
-(1) equal value (dollar amount) is invested in each of 100 bonds;
-(2) one unit invested in each of 100 bonds
+- (1) equal value (dollar amount) is invested in each of 100 bonds;
+- (2) one unit invested in each of 100 bonds
